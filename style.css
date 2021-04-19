@@ -1,0 +1,35 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+ul.menu {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+}
+
+ul.menu li {
+    display: inline;
+}
+
+ul.menu li a {
+    padding: .2em 1em;
+}
+
+ul.urunler {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.altBaslik {
+    color: chartreuse;
+    text-align: center;
+}
+
+.ortala {
+    text-align: center;
+}
